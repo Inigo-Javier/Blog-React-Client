@@ -1,0 +1,6 @@
+.posts {
+    flex: 9;
+    /* background-color: blue; */
+    display: flex;
+    flex-wrap: wrap;
+}
