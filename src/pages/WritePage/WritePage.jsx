@@ -6,11 +6,15 @@ export default function WritePage() {
             <form className='writePageForm'>
                 <div className='writePageFormGroup'>
                     <label htmlFor='fileInput'>
-                        <i class="fa-solid fa-plus"></i>
+                        <i className="writePageIcon fa-solid fa-plus"></i>
                     </label>
                     <input type='file' id='fileInput' style={{ display: "none" }} />
-                    <input type='text' placeholder='Title' />
+                    <input type='text' placeholder='Title' className='writePageInput' autoFocus={true} />
                 </div>
+                <div className='writePageFormGroup'>
+                    <textarea type="text" placeholder='Tell your story...' className='writePageInput writePageText'></textarea>
+                </div>
+                <button className='writePageSubmit'>Publish</button>
             </form>
         </div>
     )

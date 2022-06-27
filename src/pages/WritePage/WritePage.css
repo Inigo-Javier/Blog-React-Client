@@ -1,0 +1,54 @@
+.writePage {
+    padding-top: 50px;
+}
+
+.writePageForm {
+    position: relative;
+}
+
+.writePageFormGroup {
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.writePageIcon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(60, 61, 62);
+    cursor: pointer;
+}
+
+.writePageInput {
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+}
+
+.writePageInput:focus {
+    outline: none;
+}
+
+.writePageText {
+    font-size: 20px;
+}
+
+.writePageSubmit {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
