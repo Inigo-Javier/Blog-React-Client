@@ -2,6 +2,14 @@
     padding-top: 50px;
 }
 
+.writePageImg {
+    margin-left: 150px;
+    width: 70vw;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
 .writePageForm {
     position: relative;
 }
@@ -38,6 +46,7 @@
 
 .writePageText {
     font-size: 20px;
+    height: 100vw;
 }
 
 .writePageSubmit {

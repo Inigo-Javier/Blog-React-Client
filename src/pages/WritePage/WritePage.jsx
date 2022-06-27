@@ -3,6 +3,11 @@ import './WritePage.css'
 export default function WritePage() {
     return (
         <div className='writePage'>
+            <img
+                className='writePageImg'
+                src='https://warfarehistorynetwork.com/wp-content/uploads/M-Soldiers-1-4CJun06.jpg'
+                alt='four mercenaries men in a car'
+            />
             <form className='writePageForm'>
                 <div className='writePageFormGroup'>
                     <label htmlFor='fileInput'>
