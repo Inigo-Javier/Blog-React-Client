@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-image resource:[https://warfarehistorynetwork.com/mad-mike-hoare-how-a-businessman-became-a-legendary-mercenary/](Mad Mike Hoare)
+image resource:[Mad Mike Hoare](https://warfarehistorynetwork.com/mad-mike-hoare-how-a-businessman-became-a-legendary-mercenary/)
