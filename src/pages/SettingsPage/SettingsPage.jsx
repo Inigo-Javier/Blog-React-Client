@@ -21,8 +21,8 @@ export default function SettingsPage() {
                             <i className="settingsPPIcon fa-solid fa-user"></i>
 
                         </label>
-                        
-                        <input type='file' id='fileInput' slyle={{ display: "none" }}></input>
+
+                        <input type='file' id='fileInput' style={{ display:"none" }}></input>
                     </div>
 
                     <label>Username</label>
