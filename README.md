@@ -74,8 +74,9 @@ image resource:[Mad Mike Hoare](https://warfarehistorynetwork.com/mad-mike-hoare
 
 images loginPage and RegisterPage: [A bridge too far film](https://legendsofsfandfantasyart.blogspot.com/2016/04/a-bridge-too-far-1977.html)
 
-[react router](https://v5.reactrouter.com/web/guides/quick-start)
 
 [StrictMode](https://www.youtube.com/watch?v=y0ELkQ3D9sU)
 
 [React Router DOM](https://www.youtube.com/watch?v=8m8Q4wqFez0)
+
+[React Router v6](https://www.youtube.com/watch?v=KKXFmzr0nKk)

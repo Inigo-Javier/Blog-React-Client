@@ -13,7 +13,7 @@ export default function TopBar() {
       <div className='topCenter'>
         <ul className='topList'>
           <li className='topListItem'>
-            <NavLink to="/inicio">HOME</NavLink>
+            <NavLink to="/">HOME</NavLink>
           </li>
           <li className='topListItem'>
             <NavLink to="/about">ABOUT</NavLink>
@@ -25,7 +25,7 @@ export default function TopBar() {
             <NavLink to="/write">WRITE</NavLink>
           </li>
           <li className='topListItem'>
-          LOG OUT
+            LOG OUT
           </li>
         </ul>
       </div>
