@@ -7,10 +7,6 @@ import SinglePage from '../pages/SinglePage/SinglePage'
 import WritePage from '../pages/WritePage/WritePage'
 import LoginPage from './../pages/LoginPage/LoginPage'
 
-
-
-
-
 const AppRoutes = () => {
 
     return (

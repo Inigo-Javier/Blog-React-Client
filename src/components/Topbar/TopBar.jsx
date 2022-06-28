@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom'
 import './Topbar.css'
 
 export default function TopBar() {
@@ -11,7 +12,9 @@ export default function TopBar() {
       </div>
       <div className='topCenter'>
         <ul className='topList'>
-          <li className='topListItem'>HOME</li>
+          <li className='topListItem'>
+            <NavLink to="/inicio">HOME</NavLink>
+          </li>
           <li className='topListItem'>ABOUT</li>
           <li className='topListItem'>CONTACT</li>
           <li className='topListItem'>WRITE</li>
