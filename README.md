@@ -81,5 +81,5 @@ images loginPage and RegisterPage: [A bridge too far film](https://legendsofsfan
 
 [React Router v6](https://www.youtube.com/watch?v=KKXFmzr0nKk)
 
-
-[![gladiator](https://es.wallpaper.mob.org/image/dorogi-gory-pejzazh-23426.html)](https://www.youtube.com/watch?v=xbHPTPUpQ1I)
+[![Gladiator](12Gladiator.jpg)](http://www.youtube.com/watch?v=rv1Aw_1rgxA)
+[![gladiator](https://mobimg.b-cdn.net/v3/fetch/ca/ca5a2bafbc49f11d18ea1292aed830c8.jpeg?h=900&r=0.5)](https://www.youtube.com/watch?v=xbHPTPUpQ1I)
