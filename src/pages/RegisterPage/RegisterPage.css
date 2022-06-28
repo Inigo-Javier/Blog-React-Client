@@ -1,0 +1,68 @@
+.register {
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgba(255, 255, 255, 0.5),
+            rgba(255, 255, 255, 0.5)),
+        url("https://1.bp.blogspot.com/-4d9ZpAceXqs/Vx0PqQHwcoI/AAAAAAAAvTI/nZjSSmF3Y4MlwSMNKGjfHSoErwK6uzoMgCLcB/s1600/Bridge%2BToo%2BFar%2B15.jpg");
+    background-size: cover;
+}
+
+/* https://1.bp.blogspot.com/-CBKhKDI0RpE/Vx0PvYU0OmI/AAAAAAAAvTo/LywhuhGfRpU___uRt8mg4zcW2Eg17LfgACLcB/s1600/Bridge%2BToo%2BFar%2B11a.jpg */
+
+/* https://2.bp.blogspot.com/-8vpxGt_ZrEs/Vx0Pnw9IsMI/AAAAAAAAvS4/Mn1zg8Z-WGsJ2V9kPGq7dAfMh5555Q0-gCLcB/s1600/Bridge%2BToo%2BFar%2B11.jpg */
+
+/* https://3.bp.blogspot.com/-PDR5c9mxSLA/Vx0Pse3Cr8I/AAAAAAAAvTY/Wtl5s2_i85s4ufgShNaBE2FnlnybL3o3ACLcB/s1600/Bridge%2BToo%2BFar%2B19.jpg */
+
+/* https://4.bp.blogspot.com/-Lymsx3wj7Kk/Vx0PpBLKGgI/AAAAAAAAvS8/jNAI6R4kUmEPnfE8Bs-c1JAlr_rj1X_yQCLcB/s1600/Bridge%2BToo%2BFar%2B13.jpg */
+
+/* https://i2.netflixmovies.com/dibsl9ebc/image/upload/w_1024/znlqvs3yea48v2njohin.jpg */
+.registerTitle {
+    font-size: 50px;
+}
+
+.registerForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.registerForm>label {
+    margin: 10px 0;
+}
+
+.registerInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.registerInput:focus {
+    outline: none;
+}
+
+.registerButton {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.registerLoginButton {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}

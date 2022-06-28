@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 image resource:[Mad Mike Hoare](https://warfarehistorynetwork.com/mad-mike-hoare-how-a-businessman-became-a-legendary-mercenary/)
+
+images loginPage and RegisterPage: [A bridge too far film](https://legendsofsfandfantasyart.blogspot.com/2016/04/a-bridge-too-far-1977.html)
