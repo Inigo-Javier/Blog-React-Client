@@ -15,10 +15,18 @@ export default function TopBar() {
           <li className='topListItem'>
             <NavLink to="/inicio">HOME</NavLink>
           </li>
-          <li className='topListItem'>ABOUT</li>
-          <li className='topListItem'>CONTACT</li>
-          <li className='topListItem'>WRITE</li>
-          <li className='topListItem'>LOG OUT</li>
+          <li className='topListItem'>
+            <NavLink to="/about">ABOUT</NavLink>
+          </li>
+          <li className='topListItem'>
+            <NavLink to="/ajustes">CONTACT</NavLink>
+          </li>
+          <li className='topListItem'>
+            <NavLink to="/write">WRITE</NavLink>
+          </li>
+          <li className='topListItem'>
+          LOG OUT
+          </li>
         </ul>
       </div>
       <div className='topRight'>
