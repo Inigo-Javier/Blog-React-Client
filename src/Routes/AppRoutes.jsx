@@ -1,4 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
+import Sidebar from '../components/Sidebar/Sidebar'
 import HomePage from '../pages/HomePage/HomePage'
 import NotFoundPage from '../pages/NotFoundPage/NotFoundPage'
 import RegisterPage from '../pages/RegisterPage/RegisterPage'
@@ -13,12 +14,13 @@ const AppRoutes = () => {
         <>
             <Routes>
                 <Route path='/inicio' element={<HomePage />} />
-                <Route path='/ajustes' element={<SettingsPage />} />
-                <Route path='/registro' element={<RegisterPage />} />
                 <Route path='/inicio-sesion' element={<LoginPage />} />
+                <Route path='*' element={<NotFoundPage />} />
+                <Route path='/registro' element={<RegisterPage />} />
+                <Route path='/ajustes' element={<SettingsPage />} />
                 <Route path='/single' element={<SinglePage />} />
                 <Route path='/write' element={<WritePage />} />
-                <Route path='*' element={<NotFoundPage />} />
+                <Route path='/about' element={<Sidebar />} />
             </Routes>
         </>
     )
