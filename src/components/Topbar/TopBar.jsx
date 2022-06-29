@@ -1,9 +1,9 @@
-import { NavLink } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import './Topbar.css'
 
 export default function TopBar() {
 
- 
+  const user = false
 
   return (
     <div className='top'>
@@ -16,16 +16,16 @@ export default function TopBar() {
       <div className='topCenter'>
         <ul className='topList'>
           <li className='topListItem'>
-            <NavLink to="/">HOME</NavLink>
+            <Link to="/">HOME</Link>
           </li>
           <li className='topListItem'>
-            <NavLink to="/about">ABOUT</NavLink>
+            <Link to="/about">ABOUT</Link>
           </li>
           <li className='topListItem'>
-            <NavLink to="/ajustes">CONTACT</NavLink>
+            <Link to="/ajustes">CONTACT</Link>
           </li>
           <li className='topListItem'>
-            <NavLink to="/write">WRITE</NavLink>
+            <Link to="/write">WRITE</Link>
           </li>
           <li className='topListItem'>
             LOG OUT
