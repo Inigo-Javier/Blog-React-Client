@@ -79,7 +79,7 @@ images loginPage and RegisterPage: [A bridge too far film](https://legendsofsfan
 
 [React Router DOM](https://www.youtube.com/watch?v=8m8Q4wqFez0)
 
-[React Router v6](https://www.youtube.com/watch?v=KKXFmzr0nKk)
+[![React Router v6](https://res.cloudinary.com/practicaldev/image/fetch/s--cGEUqlkY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blogreact.com/wp-content/uploads/2020/03/V6-1-1024x576.png)](https://www.youtube.com/watch?v=KKXFmzr0nKk)
 
 
-[![gladiator](https://mobimg.b-cdn.net/v3/fetch/ca/ca5a2bafbc49f11d18ea1292aed830c8.jpeg?h=900&r=0.5)](https://www.youtube.com/watch?v=xbHPTPUpQ1I)
+
