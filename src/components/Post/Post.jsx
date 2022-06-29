@@ -1,6 +1,7 @@
 import './Post.css'
 
 export default function Post() {
+
     return (
         <div className='post'>
             <img className='postImg' src="https://www.gannett-cdn.com/-mm-/f338422ee8cbcff068f2e25db1fcf0efe66acb65/c=26-0-2852-2125/local/-/media/2017/01/16/USATODAY/USATODAY/636201802441929067-WW-36303-01-NARA-28-0887a.jpg?width=640" alt="soldiers at war" />

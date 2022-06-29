@@ -1,4 +1,5 @@
 import { Routes, Route, Navigate } from 'react-router-dom'
+import Post from '../components/Post/Post'
 import Posts from '../components/Posts/Posts'
 import Sidebar from '../components/Sidebar/Sidebar'
 import HomePage from '../pages/HomePage/HomePage'
@@ -11,7 +12,7 @@ import LoginPage from './../pages/LoginPage/LoginPage'
 
 
 const AppRoutes = () => {
-    const user = false
+    const user = true
     return (
         <>
             <Routes>
@@ -22,7 +23,7 @@ const AppRoutes = () => {
                 <Route path='/ajustes' element={user ? <SettingsPage /> : <HomePage />} />
                 <Route path='/write' element={user ? <WritePage /> : <RegisterPage />} />
                 <Route path='/about' element={<Sidebar />} />
-                <Route path='/post/:postId' element={<SinglePage />} />
+                <Route path='/post/:PostId' element={<Posts />} />
             </Routes>
         </>
     )
