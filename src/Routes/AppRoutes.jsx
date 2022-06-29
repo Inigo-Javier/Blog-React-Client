@@ -11,7 +11,7 @@ import LoginPage from './../pages/LoginPage/LoginPage'
 
 
 const AppRoutes = () => {
-    const user = true
+    const user = false
     return (
         <>
             <Routes>

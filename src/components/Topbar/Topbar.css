@@ -51,11 +51,6 @@
     cursor: pointer;
 }
 
-.topListItem>a {
-    text-decoration: none;
-    color: inherit;
-}
-
 .topSearchIcon {
     cursor: pointer;
     color: #666;
